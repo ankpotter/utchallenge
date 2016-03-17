@@ -1,0 +1,17 @@
+{
+  "name": "utchallenge",
+  "version": "1.0.0",
+  "description": "get/post",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "readline": "^1.3.0"
+  }
+}
